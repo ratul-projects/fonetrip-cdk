@@ -1,0 +1,9 @@
+{
+  "lamdastack": {
+    "ExportsOutputFnGetAttuserlamda34C48B79Arn06E7D6E8": "arn:aws:lambda:ap-south-1:237819362815:function:lamdastack-userlamda34C48B79-5EuPIfhdvRQU"
+  },
+  "api-gateway": {
+    "restapigatewayEndpoint4F6651D0": "https://h9altlaeb9.execute-api.ap-south-1.amazonaws.com/prod/",
+    "apiGateWayUrl": "https://h9altlaeb9.execute-api.ap-south-1.amazonaws.com/prod/"
+  }
+}
